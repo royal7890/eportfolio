@@ -10,7 +10,7 @@ communication strategies and concept
       <h3>Work efficiency as part of a team</h3>
       <h4>communication effectively </h4>
       <h5>conflict management and resolution strategies </h5>
-      <img src="royal5.webp" alt"royal5">
+      <img src="royal1.jpeg" alt"royal1">
       </body>
       <html>
         
